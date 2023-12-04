@@ -1,0 +1,41 @@
+{
+    "posts":[
+        {
+          "id": 1,
+          "title": "Lorem mama Ipsum",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "likes": 5600
+        },
+        {
+          "id": 2,
+          "title": "Dolor Sit Amet",
+          "description": "Dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Suspendisse potenti. Fusce pharetra leo ac turpis commodo, ac ullamcorper elit eleifend. Vestibulum scelerisque risus vel dui euismod, non ullamcorper turpis cursus.",
+          "likes": 75
+        },
+        {
+          "id": 3,
+          "title": "Adipiscing Elit",
+          "description": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+          "likes": 120
+        },
+        {
+          "id": 4,
+          "title": "Consectetur Adipiscing",
+          "description": "Consectetur adipiscing elit. Proin euismod quam sit amet elit hendrerit, sit amet dictum nulla tempus. Sed eu risus nec orci tincidunt cursus. Integer et justo eget nisl accumsan rhoncus.",
+          "likes": 90
+        },
+        {
+          "id": 5,
+          "title": "Ut Enim Ad Minim",
+          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "likes": 150
+        },
+        {
+          "id": 6,
+          "title": "Eiusmod Tempor Incididunt",
+          "description": "Eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+          "likes": 110
+        }
+      ]
+      
+}
